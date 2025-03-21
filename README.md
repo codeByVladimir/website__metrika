@@ -1,2 +1,4 @@
-# website__metrika
-Обучение по курсу SD.CODE
+# Веб-сайт студии дизайна "Метрика" </br>
+Ссылка на проект: https://usepixel.github.io/metrika/ </br>
+</br>
+![Картинка](img/desktop.jpg)
